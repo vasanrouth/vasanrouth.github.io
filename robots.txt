@@ -1,0 +1,68 @@
+# If you would like to crawl GitHub contact us via httpssupport.github.comtags=dotcom-robots
+# We also provide an extensive API httpsdocs.github.com
+User-agent baidu
+crawl-delay 1
+
+
+User-agent 
+
+Disallow pulse
+Disallow tree
+Disallow gist
+Disallow forks
+Disallow stars
+Disallow download
+Disallow revisions
+Disallow issuesnew
+Disallow issuessearch
+Disallow commits
+Disallow commitsauthor
+Disallow commitspath
+Disallow branches
+Disallow tags
+Disallow contributors
+Disallow comments
+Disallow stargazers
+Disallow archive
+Disallow blame
+Disallow watchers
+Disallow network
+Disallow graphs
+Disallow raw
+Disallow compare
+Disallow cache
+Disallow .git
+Disallow .git
+Disallow .git$
+Disallow searchadvanced
+Disallow search
+Disallow search
+Disallow q=
+Disallow .atom$
+
+Disallow ekansaOpen-Context-Data
+Disallow ekansaopencontext-
+Disallow tarball
+Disallow zipball
+
+Disallow source=
+Disallow ref_cta=
+Disallow plan=
+Disallow return_to=
+Disallow ref_loc=
+Disallow setup_organization=
+Disallow source_repo=
+Disallow ref_page=
+Disallow source=
+Disallow referrer=
+Disallow report=
+Disallow author=
+Disallow since=
+Disallow until=
+Disallow commitsauthor=
+Disallow report-abusereport=
+Disallow tab=
+Allow tab=achievements&achievement=
+
+Disallow account-login
+Disallow Explodingstuff
